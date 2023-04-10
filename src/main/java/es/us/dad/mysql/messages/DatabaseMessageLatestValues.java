@@ -5,6 +5,7 @@ public class DatabaseMessageLatestValues {
 	private int id;
 	private int limit;
 
+	// obtiene los n ultimos valores
 	public DatabaseMessageLatestValues() {
 		super();
 	}
